@@ -6,7 +6,7 @@ import React from 'react';
      const y = event.clientY;
      this.props.onReceiveCoordinates([x, y]);
    }
- 
+
    render(){
      return(
        <button onClick={this.handleClick}> </button>
