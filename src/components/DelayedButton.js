@@ -9,7 +9,7 @@ import React from 'react';
        delayFunc(event);
      }, delay)
    }
- 
+
    render(){
      return(
        <div>
